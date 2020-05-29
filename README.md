@@ -24,17 +24,15 @@ To build your model you should do few steps, but one of important thing that you
 ---
 
 #### libraries we will use :
-* pandas to conf our data clean and warngling dataset as we need .
+pandas, keras, tensoflow if you have gpu try to install supported tensorflow support gpu and keras support gpu,
+because it is a pain to make it with normal laptop as in my condition .
 ```bash
-$ pip3 install pandas
+$ pip3 install pandas keras tensorflow 
 ```
-* keras
+if you are using conda :
+
 ```bash
-$ pip3 install keras
-```
-* pickle ,deployml,  to store our model so we can give our friends to lookup and input more data as we wish .
-```bash
-$ pip3 install pickle
+$ conda install pandas keras tensorflow 
 ```
 
 
