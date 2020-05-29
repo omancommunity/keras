@@ -29,13 +29,21 @@ because it is a pain to make it with normal laptop as in my condition .
 ```bash
 $ pip3 install pandas keras tensorflow matplotlib scikit-learn nltk gensim
 ```
+
+
+<small> you should use some scientific ready made product such as anconda or any stable,ready packages collections .</small>
+
 if you are using conda :
 
+if conda not activate :
+```bash
+$ conda activate
+```
+then install packages:
 ```bash
 $ conda install pandas keras tensorflow matplotlib scikit-learn nltk gensim
 ```
 
 
 
-<small> you should use some scintific ready made product such as conda or any stable,ready packages collections .</small>
 
