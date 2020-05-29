@@ -27,12 +27,12 @@ To build your model you should do few steps, but one of important thing that you
 pandas, keras, tensoflow if you have gpu try to install supported tensorflow support gpu and keras support gpu,
 because it is a pain to make it with normal laptop as in my condition .
 ```bash
-$ pip3 install pandas keras tensorflow 
+$ pip3 install pandas keras tensorflow matplotlib scikit-learn nltk gensim
 ```
 if you are using conda :
 
 ```bash
-$ conda install pandas keras tensorflow 
+$ conda install pandas keras tensorflow matplotlib scikit-learn nltk gensim
 ```
 
 
